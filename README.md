@@ -23,4 +23,4 @@ A highly interactive and strategic web game built entirely with Vanilla HTML, CS
 - Fully responsive Vanilla design
 - Glowing visual particles on win
 - Real-time synthesiser sound effects (Web Audio API)
-- 3-second animated UI countdown battles
+
