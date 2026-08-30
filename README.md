@@ -22,5 +22,5 @@ A highly interactive and strategic web game built entirely with Vanilla HTML, CS
 ## ✨ Features
 - Fully responsive Vanilla design
 - Glowing visual particles on win
-- Real-time synthesiser sound effects (Web Audio API)
+
 
